@@ -11,10 +11,11 @@
 
 ## ​​ Tecnologias & Ferramentas
 
-**Mobile**  
+**Mobile e Full-stack**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
 
 **Game Development**  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
