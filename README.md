@@ -18,13 +18,13 @@
 [![My Skills](https://skillicons.dev/icons?i=java,flutter,dart,angular,androidstudio,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,tailwind,nuxtjs,ts,figma&theme=light)](https://skillicons.dev)
 
 **Game Development**  
-[![My Skills](https://skillicons.dev/icons?i=cpp,gamemakerstudio,robloxstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,gamemakerstudio,robloxstudio,unity)](https://skillicons.dev)
 
 **database e Cloud**  
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,gcp,kubernetes,mongodb,mysql,sqlite,postgres,)](https://skillicons.dev)
 
 **Sistemas**  
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi,linux,apollo)](https://skillicons.dev)
 
 ---
 
