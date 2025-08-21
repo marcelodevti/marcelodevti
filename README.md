@@ -52,7 +52,7 @@
 [![discord](https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/)
 [![instagram](https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/) 
 [![twitter](https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/) 
-[![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.youtube.com/@MarceloDev7))
+[![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/)
 
 ---
 
