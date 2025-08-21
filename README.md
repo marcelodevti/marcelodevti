@@ -12,7 +12,7 @@
 ## ​​ Tecnologias & Ferramentas
  
 **Mobile e Full-stack**  
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,html,bootstrap,css,php,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,figma&theme=light)](https://skillicons.dev)
 
 **Game Development**  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
