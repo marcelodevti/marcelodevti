@@ -1,4 +1,4 @@
-👋 Olá! Sou o **Marcelo Augusto**, do Brasil. Estudo **Engenharia de Software** e amo explorar novas tecnologias. Atualmente, foco em:
+👋 Olá! Sou o **Marcelo Augusto**,Estudante de **Engenharia de Software** e amo explorar novas tecnologias. Atualmente, foco em:
 
 - **Desenvolvimento Mobile** (Kotlin & Flutter)  
 - **Game Development** (Unity & Godot)
