@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,flutter,dart,angular,androidstudio,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,tailwind,nuxtjs,ts,figma&theme=light)](https://skillicons.dev)
 
 **Game Development**  
-[![My Skills](https://skillicons.dev/icons?i=cpp,gamemakerstudio,robloxstudio,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,gamemakerstudio,robloxstudio,unity,unreal)](https://skillicons.dev)
 
 **database e Cloud**  
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,gcp,kubernetes,mongodb,mysql,sqlite,postgres,)](https://skillicons.dev)
@@ -51,6 +51,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcelodeveloper.ti@gmail.com)
 [![discord](https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/)
 [![instagram](https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/) 
+[![twitter](https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/) 
 
 ---
 
