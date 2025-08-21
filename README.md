@@ -15,13 +15,13 @@
 ## ​​ Tecnologias & Ferramentas
  
 **Mobile e Full-stack**  
-[![My Skills](https://skillicons.dev/icons?i=java,flutter,dart,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,tailwind,nuxtjs,ts,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,flutter,dart,angular,androidstudio,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,tailwind,nuxtjs,ts,figma&theme=light)](https://skillicons.dev)
 
 **Game Development**  
 [![My Skills](https://skillicons.dev/icons?i=cpp,gamemakerstudio,robloxstudio)](https://skillicons.dev)
 
-**database**  
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,mongodb,mysql,postgres,)](https://skillicons.dev)
+**database e Cloud**  
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,gcp,kubernetes,mongodb,mysql,sqlite,postgres,)](https://skillicons.dev)
 
 ---
 
