@@ -37,12 +37,7 @@
 
 ---
 
-## ​ Projetos em Destaque  
-- **Clone-do-uber-Eats** (HTML / CSS)  
-- **Clone-do-Discord** (HTML / CSS)  
-- **Controle-de-estoque-Python** com Python e HTML/CSS :contentReference[oaicite:0]{index=0}  
-- **jogo-snake-pyhton** — implementação do clássico Snake em Python :contentReference[oaicite:1]{index=1}  
-- **livraria-online** — sistema de livraria em Django com busca integrada à API do Google Books :contentReference[oaicite:2]{index=2}  
+
 
 ---
 
