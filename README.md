@@ -1,6 +1,7 @@
 👋 Olá! Sou o **Marcelo Augusto**,Estudante de **Engenharia de Software** e amo explorar novas tecnologias. Atualmente, foco em:
 
-- **Desenvolvimento Mobile** (Kotlin & Flutter)  
+- **Desenvolvimento Mobile** (Kotlin & Flutter)
+-  **Desenvolvimento Full-Stack** (Javascript,PHP) 
 - **Game Development** (Unity & Godot)
 
 📱 Adoro criar apps úteis e acessíveis.  
