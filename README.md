@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,gcp,kubernetes,mongodb,mysql,sqlite,postgres,)](https://skillicons.dev)
 
 **Sistemas**  
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi,linux,apollo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi,linux,apple,mint,)](https://skillicons.dev)
 
 ---
 
