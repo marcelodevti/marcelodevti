@@ -15,8 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,figma&theme=light)](https://skillicons.dev)
 
 **Game Development**  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cpp,)](https://skillicons.dev)
 
 **Outros**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
