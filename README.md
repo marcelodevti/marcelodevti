@@ -12,15 +12,13 @@
 ## ​​ Tecnologias & Ferramentas
  
 **Mobile e Full-stack**  
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,tailwind,nuxtjs,figma&theme=light)](https://skillicons.dev)
 
 **Game Development**  
-[![My Skills](https://skillicons.dev/icons?i=cpp,gamemakerstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,gamemakerstudio,robloxstudio)](https://skillicons.dev)
 
-**Outros**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+**database**  
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,mongodb,mysql,postgres,)](https://skillicons.dev)
 
 ---
 
