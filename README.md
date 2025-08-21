@@ -15,7 +15,7 @@
 ## ​​ Tecnologias & Ferramentas
  
 **Mobile e Full-stack**  
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,tailwind,nuxtjs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,tailwind,nuxtjs,ts,figma&theme=light)](https://skillicons.dev)
 
 **Game Development**  
 [![My Skills](https://skillicons.dev/icons?i=cpp,gamemakerstudio,robloxstudio)](https://skillicons.dev)
@@ -43,6 +43,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelodevti)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcelodeveloper.ti@gmail.com)
+[![discord](https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/) 
 
 ---
 
