@@ -26,11 +26,14 @@
 ---
 
 ## ​ Estatísticas do GitHub  
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
 
-![Marcelo Augusto’s GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodevti&show_icons=true&theme=tokyonight)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodevti&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 </div>
 
 ---
