@@ -23,6 +23,9 @@
 **database e Cloud**  
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,gcp,kubernetes,mongodb,mysql,sqlite,postgres,)](https://skillicons.dev)
 
+**Sistemas**  
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,)](https://skillicons.dev)
+
 ---
 
 ## ​ Estatísticas do GitHub  
