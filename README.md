@@ -15,7 +15,7 @@
 ## ​​ Tecnologias & Ferramentas
  
 **Mobile e Full-stack**  
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,tailwind,nuxtjs,ts,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,flutter,dart,nodejs,js,html,bootstrap,css,php,py,react,vscode,wordpress,tailwind,nuxtjs,ts,figma&theme=light)](https://skillicons.dev)
 
 **Game Development**  
 [![My Skills](https://skillicons.dev/icons?i=cpp,gamemakerstudio,robloxstudio)](https://skillicons.dev)
