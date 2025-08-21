@@ -41,7 +41,7 @@
 
 ##  Contato  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelodevti)  
-[![LinkedIn](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/)](/* seu link do LinkedIn, se quiser incluir */)  
+[![LinkedIn](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/)](/*[ seu link do LinkedIn, se quiser incluir ](https://www.linkedin.com/in/marcelo-augusto-38b0382ba/)*/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcelodeveloper.ti@gmail.com)
 
 ---
